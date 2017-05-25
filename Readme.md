@@ -14,7 +14,7 @@ Adds a command to Sublime Text 3 that replaces all curly single and double quote
 * Type `Straight Quotes`.  Hit `Enter`.  
 * All curly quotes in your open document will be converted to straight quotes.
 
-##Troubleshooting
+## Troubleshooting
 
 "Straight Quotes" is not listed in the command window!
 
