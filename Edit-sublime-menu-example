@@ -1,0 +1,12 @@
+{
+	"caption": "Edit",
+	"id": "edit",
+	"children":
+	[
+    	{
+    		"caption": "Straighten Quotes",
+    		"id": "straighten-quotes",
+    		"command": "straight_quotes"
+    	}
+	]
+}
